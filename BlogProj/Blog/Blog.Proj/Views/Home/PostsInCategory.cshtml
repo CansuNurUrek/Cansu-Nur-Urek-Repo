@@ -1,0 +1,47 @@
+﻿@model PostCategoryModel
+
+
+
+<div class="row">
+  
+    <div class="col-9  d-flex justify-content-end align-items-center">
+
+      
+        <div>
+            
+             <h5 class="text-dark m-5 d-flex justify-content-justify-content-center align-items-center">@Model.selectedCategory</h5>
+
+       
+             <hr/>
+
+
+        @foreach (var post in Model.Posts)
+        {
+            <div class="jumbotron jumbotron-fluid">
+                <div class="container">
+                    <h1 class="display-4">@post.Name</h1>
+                    <p class="lead">@post.Description</p>
+                </div>
+            </div>
+        }
+
+        </div>
+
+    </div>
+
+      <div class="col-2 mx-5">
+
+        <h5 class="text-dark m-5 d-flex justify-content-justify-content-center align-items-center">Categories</h5>
+        <hr />
+        <div>
+
+            @foreach (var category in Model.Categories)
+            {
+                @await Html.PartialAsync("_Category",category)
+
+            }
+        </div>
+
+    </div>
+
+</div>

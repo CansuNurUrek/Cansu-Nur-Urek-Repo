@@ -1,0 +1,11 @@
+﻿@using Blog.Entity
+@model Category
+
+    <div class="card text-bg-primary mb-3 border-0" style="max-width: 18rem;">
+        <div class="m-3 ">
+         
+        </div>
+       <a class="btn btn-outline-info mb-2 font-weight-bold" asp-controller="Home" asp-action="PostsInCategory" asp-route-id=@Model.Id>@Model.Name<img src="~/image/@Model.ImageUrl" class="w-100 mb-1 " width="100" alt="..."></a>
+
+           
+    </div> 

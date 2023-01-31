@@ -1,0 +1,17 @@
+C:\Users\cansu\Desktop\BlogProj\Blog\Blog.Data\bin\Debug\net6.0\Blog.Data.deps.json
+C:\Users\cansu\Desktop\BlogProj\Blog\Blog.Data\bin\Debug\net6.0\Blog.Data.runtimeconfig.json
+C:\Users\cansu\Desktop\BlogProj\Blog\Blog.Data\bin\Debug\net6.0\Blog.Data.dll
+C:\Users\cansu\Desktop\BlogProj\Blog\Blog.Data\bin\Debug\net6.0\Blog.Data.pdb
+C:\Users\cansu\Desktop\BlogProj\Blog\Blog.Data\bin\Debug\net6.0\Blog.Entity.dll
+C:\Users\cansu\Desktop\BlogProj\Blog\Blog.Data\bin\Debug\net6.0\Blog.Entity.pdb
+C:\Users\cansu\Desktop\BlogProj\Blog\Blog.Data\obj\Debug\net6.0\Blog.Data.csproj.AssemblyReference.cache
+C:\Users\cansu\Desktop\BlogProj\Blog\Blog.Data\obj\Debug\net6.0\Blog.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cansu\Desktop\BlogProj\Blog\Blog.Data\obj\Debug\net6.0\Blog.Data.AssemblyInfoInputs.cache
+C:\Users\cansu\Desktop\BlogProj\Blog\Blog.Data\obj\Debug\net6.0\Blog.Data.AssemblyInfo.cs
+C:\Users\cansu\Desktop\BlogProj\Blog\Blog.Data\obj\Debug\net6.0\Blog.Data.csproj.CoreCompileInputs.cache
+C:\Users\cansu\Desktop\BlogProj\Blog\Blog.Data\obj\Debug\net6.0\Blog.Data.csproj.CopyComplete
+C:\Users\cansu\Desktop\BlogProj\Blog\Blog.Data\obj\Debug\net6.0\Blog.Data.dll
+C:\Users\cansu\Desktop\BlogProj\Blog\Blog.Data\obj\Debug\net6.0\refint\Blog.Data.dll
+C:\Users\cansu\Desktop\BlogProj\Blog\Blog.Data\obj\Debug\net6.0\Blog.Data.pdb
+C:\Users\cansu\Desktop\BlogProj\Blog\Blog.Data\obj\Debug\net6.0\Blog.Data.genruntimeconfig.cache
+C:\Users\cansu\Desktop\BlogProj\Blog\Blog.Data\obj\Debug\net6.0\ref\Blog.Data.dll
